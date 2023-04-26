@@ -7,7 +7,7 @@
 Abstract
 ========
 
-Guidelines on how to use the name Simonyi Survey Telescope in the different Rubin's Observatory products
+Guidelines on how to use the name Simonyi Survey Telescope in the different Rubin Observatory products
 
 Usage of the Simonyi Name
 =========================

@@ -15,15 +15,12 @@ Abstract
 
 Guidelines on how to use the name Simonyi in the different Rubin's Observatory products
 
-Add content here
-================
+Usage of the Simonyi Name
+=========================
+Explain we don't want abbreviations.... 
 
-Add content here.
-See the `reStructuredText Style Guide <https://developer.lsst.io/restructuredtext/style.html>`__ to learn how to create sections, links, images, tables, equations, and more.
+ - Publications, Technotes, Presentations etc: we should use Simonyi Telescope, no abreviation like SST, no MT, no Main Telescope. If shortening is needed just use Simonyi, or the telescope
+ - Slack Channels: #simonyi-
+ - Front-end such as LOVE, RubinTV ... Use Simonyi Telescope or Simonyi
+ - Code and github: due to the complexity we will leave "MT" as a prefixe. These names should be rename when used in front-end to the extend possible 
 
-.. Make in-text citations with: :cite:`bibkey`.
-.. Uncomment to use citations
-.. .. rubric:: References
-.. 
-.. .. bibliography:: local.bib lsstbib/books.bib lsstbib/lsst.bib lsstbib/lsst-dm.bib lsstbib/refs.bib lsstbib/refs_ads.bib
-..    :style: lsst_aa

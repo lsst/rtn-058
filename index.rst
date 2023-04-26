@@ -3,6 +3,7 @@
 .. sectnum::
 
 .. Metadata such as the title, authors, and description are set in metadata.yaml
+
 Abstract
 ========
 
@@ -10,6 +11,7 @@ Guidelines on how to use the name Simonyi Survey Telescope in the different Rubi
 
 Usage of the Simonyi Name
 =========================
+
 In general we we try not to use abbreviations which loose the name we intend to honor. 
 Hence we should avoid *ST*  and prefer Simonyi Telescope.
 

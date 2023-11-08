@@ -7,9 +7,9 @@
   .. image:: https://zenodo.org/badge/doi/10.5281/zenodo.#####.svg
      :target: http://dx.doi.org/10.5281/zenodo.#####
 
-#######################################
-Simonyi Telescope Name Usage Convention
-#######################################
+#####################################################
+Simonyi Survey Telescope Name Usage Convention
+#####################################################
 
 RTN-058
 =======

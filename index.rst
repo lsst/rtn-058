@@ -19,8 +19,10 @@ There are specific instances of use which we can consider:
 
  - Publications, Technotes, Presentations etc: we should use Simonyi Survey Telescope, no abbreviation like SST, no MT, no Main Telescope. If shortening is needed just use Simonyi, or the telescope
  - Slack Channels: #simonyi-nameofthe channel
+
  - Front-end such as LOVE, RubinTV ... Use Simonyi Telescope or Simonyi
- - Code and github: due to the complexity we will leave "MT" as a prefix. These names should be rename when used in front-end to the extend possible 
+ - Code and github: due to the complexity we will leave "MT" as a prefix. 
+   These should be renamed when used in front-end to the extent possible.
 
 
 There may be other cases not falling neatly in these categories. Always consider using the name Simonyi instead of using an abbreviation.

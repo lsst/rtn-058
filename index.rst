@@ -1,11 +1,17 @@
-:tocdepth: 1
+##############################################
+Simonyi Survey Telescope Name Usage Convention
+##############################################
 
-.. sectnum::
+.. abstract::
+
+   Guidelines on how to use the name Simonyi in the different Rubin's Observatory products
+
+
 
 .. Metadata such as the title, authors, and description are set in metadata.yaml
 
-Abstract
-========
+Introduction
+============
 Using the proper naming for our Observatory and Telescope is important, as they both highlight important contribution to both the astronomical science and the construction of the telescope. The following page https://project.lsst.org/documents/name-use-guide summarizing the use of these names (and others) in the context of the publishing and presenting the work done on or with the Vera C. Rubin Observatory. 
 
 This document outlines the guidelines on how to specifically use the name Simonyi Survey Telescope within the different Rubin Observatory products, developed by the project.

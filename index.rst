@@ -1,6 +1,12 @@
-:tocdepth: 1
+##############################################
+Simonyi Survey Telescope Name Usage Convention
+##############################################
 
-.. sectnum::
+.. abstract::
+
+   Guidelines on how to use the name Simonyi in the different Rubin's Observatory products
+
+
 
 .. Metadata such as the title, authors, and description are set in metadata.yaml
 

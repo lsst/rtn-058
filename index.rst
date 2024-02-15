@@ -12,14 +12,14 @@ Simonyi Survey Telescope Name Usage Convention
 
 Introduction
 ============
-Using the proper naming for our Observatory and Telescope is important, as they both highlight important contribution to both the astronomical science and the construction of the telescope. The following page https://project.lsst.org/documents/name-use-guide summarizing the use of these names (and others) in the context of the publishing and presenting the work done on or with the Vera C. Rubin Observatory. 
+Using the proper naming for our Observatory, Telescope and Survey is important, as they all highlight important contribution to both the astronomical science and the construction of the telescope. The following page https://project.lsst.org/documents/name-use-guide summarizing the use of these names (and others) in the context of the publishing and presenting the work done on or with the Vera C. Rubin Observatory. 
 
 This document outlines the guidelines on how to specifically use the name Simonyi Survey Telescope within the different Rubin Observatory products, developed by the project.
 
 Usage of the Simonyi Name
 =========================
 As mentioned above, it is important to recognize properly the contribution of the Simonyi Family and proper usage of the Simonyi Survey Telescope denomination is one way to do so.
-In general, we do avoid the use abbreviations which loose the name we intend to honor. 
+In general, we avoid the use of abbreviations to prevent the loss of the name we intend to honor.
 Hence, in general, we shall not use *ST*  and prefer Simonyi Telescope as a shorter name for the Simonyi Survey Telescope.
 
 The following lists the specific instances of use which we can consider:
